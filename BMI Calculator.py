@@ -1,6 +1,6 @@
 print("BMI calculator")
-weight=int(input("Enter your weight"))
-height=int(input("Enter your height"))
+weight=Float(input("Enter your weight"))
+height=Float(input("Enter your height"))
 if weight <=0 :
    print("weight must be positive")
 if height <=0:
